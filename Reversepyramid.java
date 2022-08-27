@@ -1,0 +1,20 @@
+public class Reversepyramid
+{
+
+    public static void Reversepyramid()
+    {
+    int i,j,n=5,k;
+    for(i=0;i<n;i++)
+    {
+        for(k=0;k<=i;k++)
+            System.out.print(" ");
+        for(j=0;j<n-i;j++)
+            System.out.print("* ");
+        System.out.print("\n");
+        
+    }
+        
+    }
+
+    
+}
