@@ -1,4 +1,4 @@
-class Firstprogram
+class FirstProgram
 {
         public static void table(int y,int n)
         

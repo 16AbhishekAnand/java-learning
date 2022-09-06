@@ -1,9 +1,8 @@
-public class Reversepyramid
+public class ReversePyramid
 {
-
-    public static void Reversepyramid()
+    public static void drawReversePyramid(int n) //camelCase
     {
-    int i,j,n=5,k;
+    int i,j,k;
     for(i=0;i<n;i++)
     {
         for(k=0;k<=i;k++)
@@ -12,8 +11,7 @@ public class Reversepyramid
             System.out.print("* ");
         System.out.print("\n");
         
-    }
-        
+    }    
     }
 
     

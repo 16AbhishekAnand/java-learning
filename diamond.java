@@ -1,4 +1,4 @@
- class diamond
+ class Diamond
 {
     public static void diamond(int n)
     {

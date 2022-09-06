@@ -2,9 +2,9 @@
 
 public class Pyramid
 {
-    public void main(int n )
+    public void main(int n)
     { 
-        
+        int i,j;
         for (int i=0; i<n; i++)
             { 
                 System.out.print(" "); 

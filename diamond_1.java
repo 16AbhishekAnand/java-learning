@@ -1,5 +1,4 @@
-
-public class diamond_1
+public class Diamond_1
 {
     public static void diamond_1(int n)
     { int x,y,z,i,j,k;

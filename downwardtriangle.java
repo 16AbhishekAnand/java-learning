@@ -1,7 +1,7 @@
-public class downwardtriangle
+public class DownwardTriangle
 {
     
-    public static void downwardtriangle(int n)
+    public static void downwardTriangle(int n)
     {
     int i,j;
     for(i=0;i<n;i++)

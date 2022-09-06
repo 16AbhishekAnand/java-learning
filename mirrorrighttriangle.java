@@ -1,11 +1,6 @@
-
-
-public class mirrorrighttriangle
+public class MirrorRightTriangle
 {
-    
-
-    
-    public static void mirrorrighttriangle(int n)
+    public static void mirrorRightTriangle(int n)
     {
     int i,j,k;
     for(i=0;i<n;i++)
