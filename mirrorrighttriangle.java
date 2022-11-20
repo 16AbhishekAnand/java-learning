@@ -1,6 +1,6 @@
-public class MirrorRightTriangle
+public class MirrorRightTriangle extends Pattern
 {
-    public static void mirrorRightTriangle(int n)
+    public void value(int n)
     {
     int i,j,k;
     for(i=0;i<n;i++)

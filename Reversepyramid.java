@@ -1,6 +1,6 @@
-public class ReversePyramid
+public class ReversePyramid extends Pattern
 {
-    public static void drawReversePyramid(int n) //camelCase
+    public void drawReversePyramid(int n) //camelCase
     {
     int i,j,k;
     for(i=0;i<n;i++)

@@ -1,8 +1,6 @@
-
-
-public class Pyramid
+public class Pyramid extends Pattern
 {
-    public void main(int n)
+    public void size(int n)
     { 
         int i,j;
         for (int i=0; i<n; i++)

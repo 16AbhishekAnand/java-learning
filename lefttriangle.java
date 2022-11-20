@@ -1,4 +1,4 @@
-public class LeftTriangle  //Triangle facing towards left.
+public class LeftTriangle extends RightTriangle  //Triangle facing towards left.
 {
     public static void triangle(int n){
         int x,y,z;

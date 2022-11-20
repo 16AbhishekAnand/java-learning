@@ -1,6 +1,7 @@
-class RightTriangle
+abstract class RightTriangle extends Pattern
 {
-    public static void sides(int n)
+    public void sides(int n)
+    abstract void Triangle(int n);
     {
         for(int i=0;i<n;i++){
             for(int j=0;j<=i;j++){

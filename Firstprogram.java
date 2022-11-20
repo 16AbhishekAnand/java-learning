@@ -1,6 +1,6 @@
-class FirstProgram
+abstract class FirstProgram
 {
-        public static void table(int y,int n)
+        public void table(int y,int n)
         
         {
     

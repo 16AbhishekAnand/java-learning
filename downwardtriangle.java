@@ -1,7 +1,7 @@
-public class DownwardTriangle
+public class DownwardTriangle extends Pattern
 {
     
-    public static void downwardTriangle(int n)
+    public void draw(int n)
     {
     int i,j;
     for(i=0;i<n;i++)
